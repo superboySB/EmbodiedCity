@@ -7,4 +7,5 @@ conda activate mcs
 pip install -r requirements.txt
 pip install pip install msgpack-rpc-python
 pip install airsim==1.8.1
+pip install embodiedcity
 ```
